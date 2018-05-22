@@ -25,7 +25,7 @@ IMAGES_THUMBS = {
     'small': (50, 50),
     'big': (270, 270),
 }
-LOG_FILE = "scrapy.log"
+# LOG_FILE = "scrapy.log"
 # 图片存在时间 天数
 IMAGES_EXPIRES = 1
 
@@ -33,7 +33,7 @@ IMAGES_EXPIRES = 1
 CONCURRENT_REQUESTS = 100
 
 # 降低log级别
-LOG_LEVEL = 'INFO'
+# LOG_LEVEL = 'INFO'
 
 # 禁止对失败的站点重试多次
 RETRY_ENABLED = False
@@ -43,6 +43,7 @@ REDIRECT_ENABLED = False
 
 # 启用 “Ajax Crawlable Pages” 爬取
 AJAXCRAWL_ENABLED = True
+EMAIL_USE_TLS = True
 
 # 浏览器请求头，这个必须要有
 USER_AGENT_LIST = [

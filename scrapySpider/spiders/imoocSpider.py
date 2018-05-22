@@ -1,6 +1,8 @@
 
 import scrapy
 from scrapySpider.items import ScrapyspiderItem
+from scrapySpider.emailSender import emailSender
+import datetime
 
 class ImoocSpider(scrapy.Spider):
 
@@ -54,3 +56,13 @@ class ImoocSpider(scrapy.Spider):
             print(self.count)
             # 返回url
             yield scrapy.Request(page, callback=self.parse)
+
+
+    def close(spider, reason):
+        emailSenderClient = emailSender()
+        # toSendEmailLst = ['782490630@qq.com', '1791557322@qq.com']
+        toSendEmailLst = ['782490630@qq.com']
+        finishTime = datetime.datetime.now()
+        subject = "慕课网爬虫结束"
+        body = f"细节：reason = {reason}, successs! at:{finishTime}"
+        emailSenderClient.sendEmail(toSendEmailLst, subject, body)

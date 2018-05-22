@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/scrapySpider/pipelines.py" line="41" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff9ba678-d9a6-4a19-81fa-d4a54390cb65" name="Default" comment="" />
+    <list default="true" id="ff9ba678-d9a6-4a19-81fa-d4a54390cb65" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy.log" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapySpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapySpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,39 +18,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/scrapy_Spider$enterpoint.coverage" NAME="enterpoint Coverage Results" MODIFIED="1526972685171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/scrapySpider$enterpoint.coverage" NAME="enterpoint Coverage Results" MODIFIED="1526970428339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrapy_Spider$enterpoint.coverage" NAME="enterpoint Coverage Results" MODIFIED="1526985982662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrapySpider$enterpoint.coverage" NAME="enterpoint Coverage Results" MODIFIED="1526982808816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapySpider/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17771">
-              <caret line="14640" column="28" selection-start-line="14640" selection-start-column="12" selection-end-line="14640" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enterpoint.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/enterpoint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="567">
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -53,8 +35,8 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapySpider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="27">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
@@ -65,7 +47,7 @@
       <file leaf-file-name="ImgPipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapySpider/ImgPipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="378">
               <caret line="14" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
@@ -77,8 +59,8 @@
       <file leaf-file-name="imoocSpider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+            <state relative-caret-position="157">
+              <caret line="50" selection-start-line="50" selection-end-line="58" />
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
               </folding>
@@ -86,11 +68,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapySpider/items.py">
+      <file leaf-file-name="emailSender.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySpider/emailSender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="243">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="e#22#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,7 +95,11 @@
       <find>re</find>
       <find>count</find>
       <find>IMAGES_STORE</find>
+      <find>REDIRECT_ENABLED</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,8 +110,9 @@
         <option value="$PROJECT_DIR$/scrapy.log" />
         <option value="$PROJECT_DIR$/scrapySpider/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapySpider/ImgPipelines.py" />
-        <option value="$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py" />
         <option value="$PROJECT_DIR$/scrapySpider/settings.py" />
+        <option value="$PROJECT_DIR$/scrapySpider/emailSender.py" />
+        <option value="$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py" />
       </list>
     </option>
   </component>
@@ -146,22 +136,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="scrapySpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy_Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_Spider" type="462c0819:PsiDirectoryNode" />
               <item name="scrapySpider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scrapySpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapySpider" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapySpider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapySpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapySpider" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_Spider" type="462c0819:PsiDirectoryNode" />
               <item name="scrapySpider" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -169,6 +158,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,17 +226,17 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32040817" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.36697248" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39959225" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -273,13 +263,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scrapySpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="756">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy.log">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517401">
+          <caret line="19163" column="88" selection-start-line="19163" selection-start-column="82" selection-end-line="19163" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/ImgPipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/emailSender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="e#22#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapySpider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -447,40 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/full/e382c89e0e692537731b9e6d552249ca7596226b.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-511349373/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="276" column="4" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapySpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17771">
-          <caret line="14640" column="28" selection-start-line="14640" selection-start-column="12" selection-end-line="14640" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapySpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/enterpoint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -488,19 +495,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/site-packages/scrapy/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/email/_policybase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/site-packages/pydispatch/robustapply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/email/mime/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-511349373/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="890" column="6" selection-start-line="890" selection-start-column="6" selection-end-line="890" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/email/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.5/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="225" column="8" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19163" column="88" selection-start-line="19163" selection-start-column="82" selection-end-line="19163" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapySpider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="27">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapySpider/ImgPipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
+        <state relative-caret-position="378">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="e#1#14#0" expanded="true" />
@@ -508,10 +585,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySpider/emailSender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#22#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapySpider/spiders/imoocSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        <state relative-caret-position="157">
+          <caret line="50" selection-start-line="50" selection-end-line="58" />
           <folding>
             <element signature="e#1#14#0" expanded="true" />
           </folding>
